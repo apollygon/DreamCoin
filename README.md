@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 DREM Core integration/staging repository
 =====================================
 
@@ -43,3 +41,7 @@ Stake Min Age
 8 hours
 Transaction Fee
 10 DREM/kB Coin Fee on transactions
+
+WEBSITE: http://dreampaycoin.com
+http://dreampay.io/
+
