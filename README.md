@@ -3,8 +3,6 @@
 DREM Core integration/staging repository
 =====================================
 
-[![Build Status](https://travis-ci.org/DREM-Project/DREM.svg?branch=master)](https://travis-ci.org/DREM-Project/DREM) [![GitHub version](https://badge.fury.io/gh/DREM-Project%2FDREM.svg)](https://badge.fury.io/gh/DREM-Project%2FDREM)
-
 DREM is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
 - Anonymized transactions using coin mixing technology, we call it _Obfuscation_.
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftTX_.
@@ -22,43 +20,26 @@ DREM is a cutting edge cryptocurrency, with many features not available in most 
 
 DreamPay is an open source, peer-to-peer, energy-saving, community driven, decentralized and modern PoS 3.0 Masternode-Cryptocurrency. DreamPay has active wallet development and brings new features and active community involvement.
 
-### Official ANN on Bitcointalk: 
+PoW Algorithm
+Quark
+Ticker
+DREM
+Block Time
+60 seconds with re-targeting after every block
+Total Supply
+(From PoW Phase, Incl. Pre-Mine)
+12,025,310,000 DREM
+Port
+51572
+Minted Confirmations
+90
+Transactions Confirmations
+6
+Masternodes
+10,000,000 DREM per Masternode  
+(Multiple masternodes per wallet, requires a VPS)
 
-https://bitcointalk.org/index.php?topic=2141880.0
-
-### Roadmap 2018: ![Roadmap 2018](https://i.imgur.com/TUVMC3t.jpg) 
-
-### Blockchain Explorer:
-
-https://chainz.cryptoid.info/drem/#
-
-http://www.presstab.pw/phpexplorer/DREM/index.php
-
-### Social media information: 
-
-Twitter: https://twitter.com/DreamPay
-
-Facebook: https://www.facebook.com/Colossuscoin/
-
-Reddit: https://www.reddit.com/r/ColossuscoinX/
-
-Discord Community: https://discord.gg/pRbDzPd
-
-Telegram Community: https://t.me/colossuscoin
-
-Forums: https://forum.dreampay.io/
-
-
-Terms of Service:
-https://dreampay.org/2018/01/drem-terms-of-service-tos/
-DreamPay software is an experimental software. There is no guarantee given here.
-Use it at your own risk and please do your due diligence when investing.
-
-### DreamPay – Extremely resource friendly | Lightning fast | Stealth Anonymous 
-![](https://i.imgur.com/NnR0Y18.png) 
-=======
-# DreamCoin
->>>>>>> c6ef13395dcaa5aedd0228a232c0b770b1172050
-=======
-# DreamCoin
->>>>>>> c6ef13395dcaa5aedd0228a232c0b770b1172050
+Stake Min Age
+8 hours
+Transaction Fee
+10 DREM/kB Coin Fee on transactions
